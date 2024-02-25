@@ -20,7 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto JavaScript é um botão para mostrar uma mensagem nda tela
+O projeto JavaScript é um botão para mostrar uma mensagem na tela
 
-- [Teste o projeto aqui](https://guilhermeguimaraesn.github.io/FocusTimer_V2/)
 
